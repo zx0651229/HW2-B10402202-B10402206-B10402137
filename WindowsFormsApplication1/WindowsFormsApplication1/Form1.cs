@@ -23,8 +23,12 @@ namespace WindowsFormsApplication1
             int n = g.GetNumber();
             label1.Text = n.ToString();
             ClassB h = new ClassB();
-            if (h.Prime(n) == 0) label2.Text = "Not Prime";
-            if (h.Prime(n) == 1) label2.Text = "Is Prime";
+            for(int i=0;i<=n;i++)
+            {
+                if (h.Prime(i) == 1) comboBox1.Items.Add(i.ToString());       
+            }
+
+           
         }
     }
 }

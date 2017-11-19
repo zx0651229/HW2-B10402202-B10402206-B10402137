@@ -25,3 +25,9 @@ C:\Users\C5\Documents\GitHub\n\HW2-B10402202-B10402206-B10402137\WindowsFormsApp
 C:\Users\C5\Documents\GitHub\n\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\C5\Documents\GitHub\n\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\C5\Documents\GitHub\n\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\C5\Documents\GitHub\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\C5\Documents\GitHub\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\C5\Documents\GitHub\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\C5\Documents\GitHub\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\C5\Documents\GitHub\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\C5\Documents\GitHub\HW2-B10402202-B10402206-B10402137\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
