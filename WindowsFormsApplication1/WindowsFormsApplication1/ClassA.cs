@@ -10,7 +10,11 @@ namespace WindowsFormsApplication1
     {
         public int GetNumber()
         {
-            return 0;
+            Random rand = new Random();
+
+            int i = rand.Next(0, 99);
+
+            return i;
         }
     }
 }
